@@ -9,7 +9,7 @@ Standing shooting from Antholz Relay 2022</p>
 
 <p style="color: green;">My V&#775;O<sub>2</sub> is probably still around 90% of my V&#775;O<sub>2max</sub> at this moment in time</p>
 
-<a href= "Gow130122cm1179.JPG" target=_blank rel="noopener noreferrer">
+<a href= "./Gow130122cm1179.JPG" target=_blank rel="noopener noreferrer">
   Here's another photo of me but this time shooting prone</a>
 
 <code style="color : red">text</code>
