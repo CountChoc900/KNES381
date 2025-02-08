@@ -12,8 +12,13 @@ Standing shooting from Antholz Relay 2022</p>
 <a href= "./Gow130122cm1179.JPG" target=_blank rel="noopener noreferrer">
   Here's another photo of me but this time shooting prone</a>
 
-$${\color{blue}Sometext}$$
+${\huge \color{blue}Sometext}$
 
+
+```diff
+- This line will appear in red.
++ This line will appear in green.
+```
 ```diff
 - text in red
 + text in green
