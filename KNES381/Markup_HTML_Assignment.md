@@ -3,7 +3,7 @@
 <body>
 
 <h1 align="center"> 
-  MarkDown Assignment
+  MarkUp Assignment
 </h1>
 
 <table>
