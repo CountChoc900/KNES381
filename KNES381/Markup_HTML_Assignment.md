@@ -29,7 +29,7 @@
           <figcaption>
             <a 
               align="center"
-              href="./Gow130122cm1179.JPG" 
+              href="KNES381/Markup_HTML_Assignment_hyperlink.md" 
               target="_blank" 
               rel="noopener noreferrer">
               Here's another photo of me but this time shooting prone 
