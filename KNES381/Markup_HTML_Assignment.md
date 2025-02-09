@@ -2,31 +2,45 @@
 <html>
 <body>
 
-<h1 align="center"> MarkDown Assignment</h1>
+<h1 align="center"> 
+  MarkDown Assignment
+</h1>
 
-<p style="display:inline-block;"> <img align="right" height="400" src="Group23012022vt0317.JPG" alt="Standing Shooting Antholz Relay"> 
-Standing shooting from Antholz Relay 2022</p>
+<table>
+  <tbody>
+    <tr>
+      <td valign="top">
+        <p> Standing shooting from Antholz Relay 2022</p>
+        <br>
+        <p style="color: green;">My V&#775;O<sub>2</sub> felt like it was probably still around 90% of my V&#775;O<sub>2max</sub> at this moment in time</p>
+      </td>
+      <td>
+        <figure>
+    <img
+      src="Group23012022vt0317.JPG" 
+      alt="Standing Shooting Antholz Relay" 
+      height="400">
+    <figcaption>
+      <a 
+        align="center"
+        href="./Gow130122cm1179.JPG" 
+        target="_blank" 
+        rel="noopener noreferrer">
+        Here's another photo of me but this time shooting prone
+      </a>
+    </figcaption>
+  </figure>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-<p style="color: green;">My V&#775;O<sub>2</sub> felt like it was probably still around 90% of my V&#775;O<sub>2max</sub> at this moment in time</p>
 
-<a href= "./Gow130122cm1179.JPG" target=_blank rel="noopener noreferrer">
-  Here's another photo of me but this time shooting prone</a>
+
+
+
 
 ${\huge \color{blue}Sometext}$
-
-
-```diff
-- This line will appear in red.
-+ This line will appear in green.
-```
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
-
 
 </body>
 </html>
