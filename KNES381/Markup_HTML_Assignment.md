@@ -43,7 +43,7 @@
 
 # Header #
 
-${\huge \color{blue}Sometext}$
+${\huge \color{green}Sometext}$
 
 </body>
 </html>
