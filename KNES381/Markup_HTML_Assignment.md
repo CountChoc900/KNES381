@@ -25,7 +25,7 @@
           <img
             src="Group23012022vt0317.JPG" 
             alt="Standing Shooting Antholz Relay" 
-            height="400">
+            height="100">
           <figcaption>
             <a 
               align="center"
