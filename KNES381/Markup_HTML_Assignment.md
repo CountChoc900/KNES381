@@ -41,9 +41,9 @@
   </tbody>
 </table>
 
-# Header #
-
-${\huge \color{green}Sometext}$
+```diff
++coloured text is the hardest part of this assigment!
+```
 
 </body>
 </html>
