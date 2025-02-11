@@ -30,6 +30,7 @@
             <a 
               align="center"
               href="./markdown_images/Gow130122cm1179.JPG" 
+              height="400"
               target="_blank" 
               rel="noopener noreferrer">
               Here's another photo of me but this time shooting prone 
