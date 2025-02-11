@@ -25,12 +25,12 @@
           <img
             src="Group23012022vt0317.JPG" 
             alt="Standing Shooting Antholz Relay" 
-            height="100">
+            height="400">
           <figcaption>
             <a 
               align="center"
               href="./markdown_images/Gow130122cm1179.JPG" 
-              height="400"
+              height="100"
               target="_blank" 
               rel="noopener noreferrer">
               Here's another photo of me but this time shooting prone 
